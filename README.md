@@ -1,7 +1,7 @@
 # *phlourishdev*
 
 ### 👋 Hey 
-I'm Oliver, a 17 y/o student from Germany.
+I'm Oliver, a 18 y/o student from Germany.
 
 ### 🔭 Interests 
 Currently, I use Go and Python the most, although I'm not set on any particular programming language or technology in general. Besides programming and self-hosting, technical computer science is one of my main interests.
