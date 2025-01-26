@@ -1,10 +1,10 @@
-# *phlourishdev*
+# *blccming or rather bloom*
 
 ### 👋 Hey 
-I'm Oliver, a 18 y/o student from Germany.
+I am Oliver, an 18 year old student from Germany. I currently attend a vocational high school and am doing my Abitur in computer science. Shortly after that I will start studying computer science at the DHBW Karlsruhe.
 
 ### 🔭 Interests 
-Currently, I use Go and Python the most, although I'm not set on any particular programming language or technology in general. Besides programming and self-hosting, technical computer science is one of my main interests.
+There's broad collection of topics in the information technology space that I'm interested in. Some of those are electrical engineering, network engineering, low-level programming, cyber security and UNIX/UNIX-like operating systems. I also selfhost a variety of service.
 
-### 📫 Reaching out to me 
-If you want to contact me, just send an email to <a href="mailto:phlourish@posteo.org">phlourish@posteo.org</a> or send a text to <a href="https://signal.me/#eu/kj7NT3KIdo949Yph85eHTVD_Rt3RosFrA52G9r8xszMgmYqNIJxCy61dJb0NloIY">phlourish.01</a> on Signal.
+### 📨 How to reach me
+On signal at bloom.256
